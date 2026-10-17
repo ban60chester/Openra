@@ -204,4 +204,4 @@ OpenRA is released as a complete free version with all features and updates incl
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-10-17 05:07:21 UTC
+**Last updated:** 2026-10-17 09:46:39 UTC
